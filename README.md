@@ -1,3 +1,5 @@
+> **Проект перенесён в [mapkepp/tools](https://github.com/mapkepp/tools).** Это основной репозиторий для обновлений и новых инструментов. Старый код оставлен для истории; не создавайте здесь новые issues.
+
 # Mapkepp Tools — Smart Home Shortcut Studio
 
 Public demo: https://mapkepp.github.io/mapkepp-tools/
