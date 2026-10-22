@@ -22,7 +22,7 @@ Use only devices and accounts you are authorized to control. No affiliation with
 API docs: https://yandex.ru/dev/dialogs/smart-home/doc/ru/concepts/platform-protocol
 
 ## Donations
-All functionality is free and identical for everyone. The support button is a **placeholder** until the owner configures a verified donation URL at `DONATION_LINK` in `index.html`. This site does not accept payments, process cards or promise benefits in return for gifts. Tax and payment processing treatment depends on the facts and applicable law; merely labeling a payment a donation does not make it non-taxable.
+All functionality is free and identical for everyone. Support is always optional: [T-Bank voluntary donation link](https://t.tb.ru/pm_short/7Ixu10XDRWa). Donations grant no additional functions, advantages, or priority. The site itself does not process payments or bank card information. External payment completion and receipt have not been independently tested. The applicable tax status depends on the facts and the law.
 
 ## Enable GitHub Pages
 
@@ -38,4 +38,4 @@ No computer or paid hosting is required.
 - XML plist generation, true/false, integer number, ID and OAuth-token absence: PASS.
 - Apple AEA1 signer integration tested on scenario and VPN/non-VPN variants: PASS using **synthetic** IDs only.
 - Real iPhone iOS 26.6.2 import, VPN reconnection, device control, Safari cross-origin form downloads: **NOT_TESTED**.
-- Repository: **CREATED**; GitHub Pages and donation link require separate verification/configuration.
+- Repository: **CREATED**; donation URL: **CONFIGURED**; completed external payment: **NOT_TESTED**.
